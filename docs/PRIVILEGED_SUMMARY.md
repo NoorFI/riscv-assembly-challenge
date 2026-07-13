@@ -3,9 +3,6 @@
 ### **Module 3 Grand Assignment**
 ### *Privileged Architecture Summary*
 
-**Overview:**
-
-
 **Privilege Levels:**
 
 RISC-V has multiple privilege modes for every software component. These provide varying levels of isolation and protection.
