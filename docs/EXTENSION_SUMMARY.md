@@ -42,3 +42,6 @@ Practical Applications:
 2. Better Cache performance
 3. Lower Power consumption
 4. Faster program loading
+
+Author:</br>
+***Noor Fatima***
